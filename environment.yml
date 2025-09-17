@@ -1,4 +1,4 @@
-name: market-analysis
+name: market_analysis
 channels:
   - conda-forge
   - defaults
