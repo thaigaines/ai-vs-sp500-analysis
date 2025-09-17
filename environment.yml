@@ -1,4 +1,4 @@
-name: stock_explorer
+name: market-analysis
 channels:
   - conda-forge
   - defaults
